@@ -1,11 +1,13 @@
 # Bitwarden Emergency Kit
 
-The details below can be used to sign in to your Bitwarden account in an emergency.
+The details below can be used to sign in to your Bitwarden account.
 
+What to do with this document:
 1. Store this document on an external drive or (cloud) storage location, USB key, etc.
-2. [Optional] Print out this document.
-    - Write down the Master Password, or rely on the stated hint.
+2. Print out this document.
+    - Write down the Master Password.
     - Store in a secure place where you can find it, e.g., a safe deposit box.
+       - Consider giving it to someone you trust. 
 
 ## Account
 
@@ -28,8 +30,12 @@ The details below can be used to sign in to your Bitwarden account in an emergen
 1. Go to https://vault.bitwarden.com/.
 2. Enter the email address: `your.email@example.com`.
 3. Enter the Master Password: `YourMasterPasswordHere`.
-4. Use the 2FA Login Recovery Code when prompted.
-
+4. Enter in the 2FA Code.
+**If you do not have the 2FA Code:**
+1. Press "Use another two-step login method"
+2. Select Recovery Code
+3. Enter the email, master password, and the 2FA Login Recovery Code.
+   
 ### How to Log In via Emergency Access
 
 https://bitwarden.com/help/emergency-access/
