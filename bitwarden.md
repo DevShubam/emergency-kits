@@ -31,7 +31,9 @@ What to do with this document:
 2. Enter the email address: `your.email@example.com`.
 3. Enter the Master Password: `YourMasterPasswordHere`.
 4. Enter in the 2FA Code.
+   
 **If you do not have the 2FA Code:**
+
 1. Press "Use another two-step login method"
 2. Select Recovery Code
 3. Enter the email, master password, and the 2FA Login Recovery Code.
