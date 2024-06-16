@@ -11,7 +11,7 @@ What to do with this document:
 
 ## Account
 
-- **Sign-In Address**: https://vault.bitwarden.com/
+- **Web Vault URL**: https://vault.bitwarden.com/
 - **Email Address**: `your.email@example.com`
 - **Master Password**: `YourMasterPasswordHere`
 - **2FA Login Recovery Code**: `YourRecoveryCode`
@@ -28,8 +28,8 @@ What to do with this document:
 ### How to Log In Using Provided Information
 
 1. Go to https://vault.bitwarden.com/.
-2. Enter the email address: `your.email@example.com`.
-3. Enter the Master Password: `YourMasterPasswordHere`.
+2. Enter the email address.
+3. Enter the Master Password.
 4. Enter in the 2FA Code from the authenticator app.
    
 **If you do not have the 2FA Code:**
