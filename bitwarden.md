@@ -48,5 +48,6 @@ Visit the Bitwarden Website: https://bitwarden.com/help/emergency-access/
 
 
 
---
+---
+
 **Last Updated**: `Date`
