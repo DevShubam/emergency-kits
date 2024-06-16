@@ -40,7 +40,7 @@ What to do with this document:
    
 ### How to Log In via Emergency Access
 
-https://bitwarden.com/help/emergency-access/
+Visit the Bitwarden Website: https://bitwarden.com/help/emergency-access/
 
 ---
 
