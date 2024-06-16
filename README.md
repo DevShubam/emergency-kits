@@ -3,11 +3,11 @@
 The details below can be used to sign in to your Bitwarden account.
 
 What to do with this document:
-1. Store this document on an external drive or (cloud) storage location, USB key, etc.
-2. Print out this document.
-    - Write down the Master Password.
+1. Fill out the document
+2. Store this document on an external drive or (cloud) storage location, USB key, etc.
+3. Print out this document.
     - Store in a secure place where you can find it, e.g., a safe deposit box.
-       - Consider giving it to someone you trust. 
+    - Consider giving it to someone you trust. 
 
 ## Account
 
