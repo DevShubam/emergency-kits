@@ -43,5 +43,10 @@ What to do with this document:
 Visit the Bitwarden Website: https://bitwarden.com/help/emergency-access/
 
 ---
+**Notes:**
 
+
+
+
+--
 **Last Updated**: `Date`
