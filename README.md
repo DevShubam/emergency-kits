@@ -30,7 +30,7 @@ What to do with this document:
 1. Go to https://vault.bitwarden.com/.
 2. Enter the email address: `your.email@example.com`.
 3. Enter the Master Password: `YourMasterPasswordHere`.
-4. Enter in the 2FA Code.
+4. Enter in the 2FA Code from the authenticator app.
    
 **If you do not have the 2FA Code:**
 
