@@ -43,10 +43,8 @@ What to do with this document:
 Visit the Bitwarden Website: https://bitwarden.com/help/emergency-access/
 
 ---
-**Notes:** For Example: `Bitwarden .json backup is stored on the black usb in the safe`
 
-
-
+**Notes:** `For Example: Bitwarden .json backup is stored on the black usb in the safe`
 
 ---
 
