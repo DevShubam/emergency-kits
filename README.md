@@ -16,7 +16,7 @@ What to do with this document:
 - **Master Password**: `YourMasterPasswordHere`
 - **2FA Login Recovery Code**: `YourRecoveryCode`
 
-## Notes
+## Extra
 
 - **Account Fingerprint Phrase**: `YourFingerprintPhrase`
 - **2FA Seed Phrase**: `Your2FASeedPhrase`
@@ -41,6 +41,10 @@ What to do with this document:
 ### How to Log In via Emergency Access
 
 Visit the Bitwarden Website: https://bitwarden.com/help/emergency-access/
+
+---
+
+**Notes:** `For Example: Bitwarden .json backup is stored on the black usb in the safe`
 
 ---
 
