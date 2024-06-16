@@ -35,7 +35,7 @@ What to do with this document:
 **If you do not have the 2FA Code:**
 
 1. Press "Use another two-step login method"
-2. Select Recovery Code
+2. Select "Recovery Code"
 3. Enter the email, master password, and the 2FA Login Recovery Code.
    
 ### How to Log In via Emergency Access
