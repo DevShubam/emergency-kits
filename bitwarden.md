@@ -11,7 +11,7 @@ What to do with this document:
 
 ## Account
 
-- **Sign-In Address**: https://vault.bitwarden.com/
+- **Web Vault URL**: https://vault.bitwarden.com
 - **Email Address**: `your.email@example.com`
 - **Master Password**: `YourMasterPasswordHere`
 - **2FA Login Recovery Code**: `YourRecoveryCode`
@@ -20,6 +20,7 @@ What to do with this document:
 
 - **Account Fingerprint Phrase**: `YourFingerprintPhrase`
 - **2FA Seed Phrase**: `Your2FASeedPhrase`
+- **Vault Export Password**: `VaultExportPasswordHere`
 - **Added Emergency Contacts**:
     - **John Doe**: `john.doe@example.com` Status: (Can Takeover?)
 
@@ -27,10 +28,10 @@ What to do with this document:
 
 ### How to Log In Using Provided Information
 
-1. Go to https://vault.bitwarden.com/.
-2. Enter the email address: `your.email@example.com`.
-3. Enter the Master Password: `YourMasterPasswordHere`.
-4. Enter in the 2FA Code from the authenticator app.
+1. Go to the web vault or log in using the official Bitwarden apps (https://bitwarden.com/download)
+2. Enter the email address.
+3. Enter the Master Password.
+4. Enter the 2FA Code from the authenticator app.
    
 **If you do not have the 2FA Code:**
 
@@ -40,7 +41,7 @@ What to do with this document:
    
 ### How to Log In via Emergency Access
 
-Visit the Bitwarden Website: https://bitwarden.com/help/emergency-access/
+Visit the Bitwarden Website: https://bitwarden.com/help/emergency-access
 
 ---
 
