@@ -30,6 +30,7 @@ Write down where your vault or related files are backed up and how to access the
 - Name of encryption tool used (e.g., VeraCrypt, 7-Zip, Picocrypt)
 
 *Note: You'll also need to write your cloud storage login down if you store a backup on cloud storage. I usually don't recommend storing the vault backup on cloud storage. A USB drive or even two should be fine*
+
 ---
 
 ### 📱 Device Information
